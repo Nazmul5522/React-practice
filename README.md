@@ -1,3 +1,3 @@
 # React-practice
-My all react topic practice will be here
+Start learning git & github <br>
 Author - Nazmul Huda
